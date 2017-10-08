@@ -10,6 +10,7 @@ public class Main {
 
 	private static void m1() {
 		System.out.println("checking git");
+		System.out.println("test1");
 	}
 
 }
